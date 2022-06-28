@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prueba_visual.MainPage"
+             Background="#a3a3a3"
+             >
+    <ScrollView>
+    <Grid ColumnDefinitions="*,*" >
+        
+        <StackLayout Grid.Column="0" Visual="Material" Margin="25">
+                <Label Text="nombre *"/>
+                <Entry Placeholder="nombre"  Visual="Material"/>
+            <DatePicker Visual="Material"></DatePicker>
+            <ActivityIndicator HeightRequest="70" WidthRequest="70" IsRunning="True"></ActivityIndicator>
+            <CheckBox></CheckBox>
+            <Frame HeightRequest="30"></Frame>
+            <Picker/>
+            <ProgressBar Progress="0.75"/>
+            <Slider Value="20" Minimum="0" Maximum="100"/>
+            <Stepper />
+            <TimePicker/>
+            <Editor Placeholder="material" />
+            <Button Text="material"/>
+
+            </StackLayout>
+
+            <StackLayout Margin="25" Grid.Column="1">
+            <Entry Placeholder="default"></Entry>
+            <DatePicker Visual="Material" ></DatePicker>
+            <ActivityIndicator HeightRequest="70" WidthRequest="70" IsRunning="True"></ActivityIndicator>
+            <CheckBox></CheckBox>
+            <Frame HeightRequest="30" ></Frame>
+            <Picker/>
+            <ProgressBar Progress="0.75"/>
+            <Slider Value="20" Minimum="0" Maximum="100"/>
+            <Stepper />
+            <TimePicker/>
+            <Editor Placeholder="default" />
+            <Button Text="default"/>
+            </StackLayout>
+
+    </Grid>
+   </ScrollView>
+
+</ContentPage>

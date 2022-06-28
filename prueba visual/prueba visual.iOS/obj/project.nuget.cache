@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyqooqo2FHGsRoSmbctrmdIH+YBtq4kfLW3NiT164It9ghiiiClNoIUG6blt/Xn/1MuFXFFEqUCej4251yLEXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\159753\\source\\repos\\prueba visual\\prueba visual.iOS\\prueba visual.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\159753\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\159753\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\159753\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\159753\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2478\\xamarin.forms.visual.material.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\159753\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

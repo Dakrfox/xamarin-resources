@@ -1,0 +1,15 @@
+C:\Users\159753\source\repos\prueba visual\prueba visual\bin\Debug\netstandard2.0\prueba visual.deps.json
+C:\Users\159753\source\repos\prueba visual\prueba visual\bin\Debug\netstandard2.0\prueba visual.dll
+C:\Users\159753\source\repos\prueba visual\prueba visual\bin\Debug\netstandard2.0\prueba visual.pdb
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.csproj.AssemblyReference.cache
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.AssemblyInfoInputs.cache
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.AssemblyInfo.cs
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.csproj.CoreCompileInputs.cache
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.dll
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\refint\prueba visual.dll
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\prueba visual.pdb
+C:\Users\159753\source\repos\prueba visual\prueba visual\obj\Debug\netstandard2.0\ref\prueba visual.dll
